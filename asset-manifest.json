@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pricecard/static/css/main.ea176520.css",
+    "main.js": "/pricecard/static/js/main.b1b9fc67.js",
+    "static/js/453.dd0b3a7e.chunk.js": "/pricecard/static/js/453.dd0b3a7e.chunk.js",
+    "index.html": "/pricecard/index.html",
+    "main.ea176520.css.map": "/pricecard/static/css/main.ea176520.css.map",
+    "main.b1b9fc67.js.map": "/pricecard/static/js/main.b1b9fc67.js.map",
+    "453.dd0b3a7e.chunk.js.map": "/pricecard/static/js/453.dd0b3a7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea176520.css",
+    "static/js/main.b1b9fc67.js"
+  ]
+}
